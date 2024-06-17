@@ -6,6 +6,7 @@ header, footer {
   font-family: Monaco, Menlo, Consolas, 'Courier New', monospace;
   font-size: 22px;
   line-height: 1.46em;
+  text-wrap: balance;
 }
 
 .container {

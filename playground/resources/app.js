@@ -7,3 +7,5 @@ CodeMirror.commands.blurEditor = function(editor) {
     window.parent.focus();
   }
 };
+
+// window.location.reload();

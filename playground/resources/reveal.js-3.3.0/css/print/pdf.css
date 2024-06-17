@@ -158,3 +158,13 @@ ul, ol, div, p {
 	font-size: 14px;
 }
 
+.reveal .slides > section.present, .reveal .slides > section > section.present {
+  left: -10px !important;
+  width: 1050px !important;
+  top: 0 !important;
+  height: 600px;
+}
+
+.reveal iframe {
+  height: 600px;
+}
